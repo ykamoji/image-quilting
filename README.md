@@ -4,3 +4,5 @@
 <hr/>
 
 ![Implementation](https://github.com/ykamoji/image-quilting/blob/main/img_refs/Implementation.png?raw=true)
+
+![Image Quilting 1](https://github.com/ykamoji/image-quilting/blob/main/img_refs/Quilt_1.png?raw=true)
